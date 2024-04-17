@@ -1,4 +1,4 @@
-package Chapter1
+package Chapter2
 
 enum class Color2(
     val r: Int, val g: Int, val b: Int  // 상수의 프로퍼티를 정한다.

@@ -1,4 +1,4 @@
-package Chapter1
+package Chapter2
 
 class Person2(
     val name: String,
